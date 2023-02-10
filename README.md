@@ -1,4 +1,6 @@
-# download-yt-videos
+# download videos do youtube
 
-LOCALHOST:PORT/NAMEVIDEO/?URL=LINKVIDEO   => PASTA VIDEO 
+
+como ?
+ * LOCALHOST:PORT/NAMEVIDEO/?URL=LINKVIDEO   => PASTA VIDEO 
 
